@@ -1,0 +1,98 @@
+<html>
+<head>
+<title> Catalogue </title>
+</head>
+<body bgcolor="pink">
+
+
+<table border="1" width="100%">
+<tr>
+
+<td><b>STALL NO</b></td>
+<td><b>NAME</B></td>
+<td><b>IMAGE</b></td>
+<td><b>ROW NUMBER</b></td>
+<td><b>LOCATION</b></td>
+<tr>
+<td>
+<img src="crafts.jpg" width=100 height=100/>
+</td>
+<td> Arts&crafts</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="face.jpg" width=100 height=100/>
+</td>
+<td>face and hand print</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="hang.jpg" width=100 height=100/>
+</td>
+<td>Hanging on Rod</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="hel.jpg" width=100 height=100/>
+</td>
+<td> Helium Ballons</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="shop.jpg" width=100 height=100/>
+</td>
+<td>Jewellery shop</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="mehendi.jpg" width=100 height=100/>
+</td>
+<td>Mehendi</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="nail.jpg" width=100 height=100/>
+</td>
+<td>Nail Art</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="booth.jpg" width=100 height=100/>
+</td>
+<td>PhotoBooth</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+<tr>
+<td>
+<img src="gallery.jpg" width=100 height=100/>
+</td>
+<td>gallery</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td><form action="location.html"> <input type="submit" value="LOCATION"/></form></td> </tr>
+</table> 
+</body> </html>

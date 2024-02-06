@@ -1,0 +1,72 @@
+<html>
+<head>
+<title> Catalogue </title>
+</head>
+<body bgcolor="pink">
+
+
+<table border="1" width="100%">
+<tr>
+
+<td><b>EVENT</b></td>
+<td><b>NAME</B></td>
+<td><b>DATE</b></td>
+<td><b>TIME</b></td>
+<td><b>PLACE</b></td>
+<td><b>LOCATION</b></td>
+<tr>
+<td>
+<img src="group.jpg" width=100 height=100/>
+</td>
+<td> Group Discussion</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="biz.jpg" width=100 height=100/>
+</td>
+<td>Biz Quiz</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="paper.jpg" width=100 height=100/>
+</td>
+<td>Paper Presentation</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="poster.jpg" width=100 height=100/>
+</td>
+<td> Poster Presentation</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="tech.jpg" width=100 height=100/>
+</td>
+<td>Tech spot events</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="expo.jpg" width=100 height=100/>
+</td>
+<td>Project expo</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+</table> 
+</body> </html>

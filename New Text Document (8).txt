@@ -1,0 +1,101 @@
+<html>
+<head>
+<title> Catalogue </title>
+</head>
+<body bgcolor="pink">
+
+
+<table border="1" width="100%">
+<tr>
+
+<td><b>EVENT</b></td>
+<td><b>NAME</B></td>
+<td><b>DATE</b></td>
+<td><b>TIME</b></td>
+<td><b>PLACE</b></td>
+<td><b>LOCATION</b></td>
+<tr>
+<td>
+<img src="Sing.jpg" width=100 height=100/>
+</td>
+<td> Singing</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="dance.jpg" width=100 height=100/>
+</td>
+<td> Dancing</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="fashion.jpg" width=100 height=100/>
+</td>
+<td> Fashion show</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="music.jpg" width=100 height=100/>
+</td>
+<td> Music Band</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="film.jpg" width=100 height=100/>
+</td>
+<td>Short Film</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="photo.jpg" width=100 height=100/>
+</td>
+<td>Photo contest</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+
+<tr>
+<td>
+<img src="comedy.jpg" width=100 height=100/>
+</td>
+<td> Stand-up comedy</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="graffiti.jpg" width=100 height=100/>
+</td>
+<td>Graffiti</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+<tr>
+<td>
+<img src="cartoon.jpg" width=100 height=100/>
+</td>
+<td>Cartoon contest</td>
+<td>------</td>
+<td>------</td>
+<td>-----</td>
+<td> <input type="submit" value="LOCATION"/></td> </tr>
+
+</table> 
+</body> </html>
